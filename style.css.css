@@ -1,0 +1,58 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    color: white;
+}
+.sfondo{
+    background: rgba(0, 0, 0, 0.7);
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    border-radius: 5px;
+    padding: 50px;
+}
+header{
+    color: rgb(14, 212,14);
+    text-align: center;
+}
+nav{
+    text-align: center;
+    background-color: rgb(14, 212,14);
+    padding: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+main{
+    width: 500px;
+}
+#mono1{
+    height: 20px;
+    width: 200px;
+    background-color: orange;
+    border-color: orange;
+    margin-left: 0px;
+    border-radius: 5px;
+}
+#mono2{
+    height: 20px;
+    width: 400px;
+    background-color: green;
+    border-color: green;
+    margin-left: 0px;
+    border-radius: 5px;
+}
+#mono3{
+    height: 20px;
+    width: 100px;
+    background-color: red;
+    border-color: red;
+    margin-left: 0px;
+    border-radius: 5px;
+}
+section{
+    margin-left: 200px;
+}
+#logo{
+    width: 20%;
+}
